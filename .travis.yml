@@ -2,5 +2,5 @@ language: objective-c
 os: osx
 osx_image: xcode10.2
 xcode_project: Raytronome.xcodeproj
-xcode_scheme: RaytronomeTests
+xcode_scheme: Raytronome
 xcode_destination: platform=iOS Simulator,OS=12.1,name=iPhone X
