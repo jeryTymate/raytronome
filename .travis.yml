@@ -1,3 +1,7 @@
+branches:
+  only:
+  - master
+  - develop
 language: objective-c
 os: osx
 osx_image: xcode10.2
